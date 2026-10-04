@@ -1,6 +1,4 @@
-> Sunsetted in lieu of the deprecation of RepoRater itself.
-
-[![RepoRater](https://repo-rater.eddiehub.io/api/badge?owner=xkrishguptaa&name=action-repo-rater)](https://repo-rater.eddiehub.io/rate?owner=xkrishguptaa&name=action-repo-rater)
+> Cascade Sunsetted. RepoRater has been sunset.
 
 <div align="center">
   <img src="https://github.com/EddieHubCommunity.png" height="100px" width="100px" style="border-radius: 100%;" />
@@ -21,11 +19,11 @@
 
 1. Go to Settings -> Actions
    
-   <img width="1582" alt="GitHub Action Settings Page" src="https://github.com/xkrishguptaa/action-repo-rater/assets/135469703/bbff3611-9085-4904-855e-7abd05433bef">
+   <img width="1582" alt="GitHub Action Settings Page" src="https://github.com/ikrishg/action-repo-rater/assets/135469703/bbff3611-9085-4904-855e-7abd05433bef">
 
 2. Enable `write` permission for GitHub Actions
    
-   <img width="1582" alt="image" src="https://github.com/xkrishguptaa/action-repo-rater/assets/135469703/3888f62e-9606-4ac5-a2d7-6ab5cb9bad55">
+   <img width="1582" alt="image" src="https://github.com/ikrishg/action-repo-rater/assets/135469703/3888f62e-9606-4ac5-a2d7-6ab5cb9bad55">
 
 ### Creation Action File
 
