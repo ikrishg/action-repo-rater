@@ -1,5 +1,5 @@
 name: Repo Rater Action
-description: 'GitHub Action to ask contributors to rate the repo'
+description: 'Sunset. RepoRater has been discontinued; this action is no longer maintained.'
 branding:
   color: blue
   icon: heart
